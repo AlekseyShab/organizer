@@ -1,4 +1,4 @@
-# Organizer
+# Organizer app
 Server - firebase
 
 ## start
